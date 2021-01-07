@@ -1,4 +1,8 @@
 # top-six-promoters
+```
+A friend asked me to create avatars of the top six promoters,
+circling around his company's logo.
+```
 
 ## Project setup
 ```
