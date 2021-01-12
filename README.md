@@ -3,8 +3,6 @@
 A friend asked me to create avatars of the top six promoters,
 circling around his company's logo.
 Full project -> https://github.com/CvetelinP/field
-
-![](https://github.com/ivoqqq/top-six-promoters/blob/main/GIF%2012.1.2021%20%D0%B3-%2015-42-10.gif)
 ```
 
 ## Project setup
