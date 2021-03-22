@@ -3,7 +3,7 @@
     <img
       class="logo-rounded-circle"
       alt="100x100"
-      src="https://i.ibb.co/NTWYYPM/Field-TEAM.png"
+      src="https://www.pikpng.com/pngl/b/583-5830237_your-logo-retulp-bus-stop-clipart.png"
       data-holder-rendered="true"
     />
     <div class="avatars">
@@ -71,6 +71,7 @@ export default {
   left: calc(50% - 80px);
   top: calc(50% - 80px);
   border-radius: 50%;
+  background: grey;
 }
 
 /* rotate all elements 360deg */
