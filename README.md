@@ -4,9 +4,9 @@ A friend asked me to create avatars of the top six promoters,
 circling around his company's logo.
 ```
 Full project -> https://github.com/CvetelinP/field
-## demo
+<!-- ## demo
 
-![](https://github.com/ivoqqq/top-six-promoters/blob/main/demo/demo-top-six.gif)
+![](https://github.com/ivoqqq/top-six-promoters/blob/main/demo/demo-top-six.gif) -->
 
 ## Project setup
 ```
